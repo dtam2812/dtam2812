@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning HTML, CSS, and Figma<br>📫 How to reach me: 23521384@gm.edu.vn
+🔭 I’m currently working on Web Development<br>📫 How to reach me: 23521384@gm.edu.vn
 
 
 ## 🌐 Socials:
